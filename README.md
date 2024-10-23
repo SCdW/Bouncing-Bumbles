@@ -1,7 +1,5 @@
 # 2024-2025 Race Plan
 
-
-```
 | Race                                 | Location            | Date         | Info                                          |            |                                       |                    |              |                                            |
 |--------------------------------------|---------------------|--------------|-----------------------------------------------|------------|---------------------------------------|--------------------|--------------|--------------------------------------------|
 | Solstice 50                          | Two Rivers, AK      | Dec 21, 2024 | www.trdma.info                                | Alternate: | Knik 100                              | Knik, AK           | Dec 21, 2024 | https://www.kniktrailblazers.org/knik-100-race.html                         |
@@ -16,4 +14,3 @@
 | Tanana River Challenge 45 Skijor     | Fairbanks, AK       | Mar 15, 2025 | www.tananariverchallenge.org                  |            |                                       |                    |              |                                            |
 |                                      |                     |              |                                               | Alternate: | T-DOG                                 | Fairbanks, AK      | Mar 23, 2025 | https://trailbreakerkennel.com/home/t-dog/ |
 | Underdog 100                         | Yellowknife NT      | Mar 29, 2025 | https://www.facebook.com/underdogsleddograce/ | Alternate: | Valley Funale                         | Two Rivers, AK     | Mar 29, 2025 | www.trdma.info                             |
-```
