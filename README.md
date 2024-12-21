@@ -1,4 +1,12 @@
-# 2024-2025 Race Plan
+# Bouncing Bumbles Sled Dog Kennel
+
+Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'll often see us training on the ADMA trails and in the White Mountains National Recreation Area.
+
+1. [Race Plan](#2024-2025-Race-Plan)
+2. [Dogs](#Dogs)
+3. [Contact](#Contact)
+
+## 2024-2025 Race Plan
 
 | Race                                 | Location            | Date         | Info                                          |            |                                       |                    |              |                                            |
 |--------------------------------------|---------------------|--------------|-----------------------------------------------|------------|---------------------------------------|--------------------|--------------|--------------------------------------------|
@@ -15,3 +23,11 @@
 |                                      |                     |              |                                               | Alternate: | T-DOG                                 | Fairbanks, AK      | Mar 23, 2025 | https://trailbreakerkennel.com/home/t-dog/ |
 | Underdog 100                         | Yellowknife NT      | Mar 29, 2025 | https://www.facebook.com/underdogsleddograce/ | Alternate: | Valley Funale                         | Two Rivers, AK     | Mar 29, 2025 | www.trdma.info                             |
 | CB 100                        | Glenallen, AK          | Apr 4, 2025  | www.cb300.com                              |            |                                       |                    |              |                                            |
+
+## Dogs
+
+
+
+## Contact <a name="contact"></a>
+
+sean.dewolski@live.com
