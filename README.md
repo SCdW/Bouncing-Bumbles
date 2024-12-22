@@ -52,7 +52,7 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 
 ### Kyber
 
-![Kyber](./images/Kyber.jpg "Kyber")
+![Kyber](./images/kyber.jpg "Kyber")
 
 ### Lexi
 
