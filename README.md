@@ -17,6 +17,7 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 | ~~Klondike Dog Derby~~ race cancelled :(       | Lake Minnetonka, MN | ~~Feb 1, 2025~~  | https://www.klondikedogderby.com/                     |   |     |   |                                                       |
 | Caledonia Classic 50                  | Fort St. James, BC | Feb 1, 2025  | https://www.fsjcaledoniaclassic.com                 |  |  |  |  |
 | Race to the Sky 100 | Seeley Lake, MT    | Feb 8, 2025 | https://www.racetothesky.org/  | |     
+| (Tentative) The Pas 6 dog | The Pas, MB | Feb 12-16, 2025 | https://www.trappersfestival.ca/ | |
 | Canadian Challenge 100               | La Ronge, SK        | Feb 18, 2025 | https://canadianchallenge.com/                |            |                                      |                    |              |                                            |
 | Yukon Odyssey 100                    | Mendenhall, YT      | Mar 1, 2025  | https://m.facebook.com/61559555234258/        |            |                                       |                    |              |                                            |
 | Percy DeWolfe                        | Dawson, YT          | Mar 6, 2025  | https://www.thepercy.com                              |            |                                       |                    |              |                                            |
