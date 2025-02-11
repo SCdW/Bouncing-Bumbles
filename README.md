@@ -10,14 +10,14 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 
 | Race                                 | Location            | Date         | Info                                          |            |                                       |                    |              |                                            |
 |--------------------------------------|---------------------|--------------|-----------------------------------------------|------------|---------------------------------------|--------------------|--------------|--------------------------------------------|
-| Solstice 50             (Win 1st/21)             | Two Rivers, AK      | Dec 22, 2024 | https://www.trdma.info                                | |                         |            | |                |
+| Solstice 50             (Win 1st/21, FKT new course)             | Two Rivers, AK      | Dec 22, 2024 | https://www.trdma.info                                | |                         |            | |                |
 | Copper Basin 300 (Handle for Kelsey (4th/32; Great job Kelsey!)) | Glenallen AK        | Jan 11, 2025 | https://www.cb300.com                                 |            |                                       |                    |              |                                            |
-| Carbon Hill                          | Whitehorse, YT      | Jan 19, 2025 | https://dpsay.org/                            |            |                                       |                    |              |                                            |
+| Carbon Hill (Win 1st/8, FKT existing course)                         | Whitehorse, YT      | Jan 19, 2025 | https://dpsay.org/                            |            |                                       |                    |              |                                            |
 | ~~Beargrease 120~~ race postponed :(                      | Duluth, MN          | ~~Jan 26, 2025~~ | https://www.beargrease.com                            |            |                                       |                    |              |                                            |
 | ~~Klondike Dog Derby~~ race cancelled :(       | Lake Minnetonka, MN | ~~Feb 1, 2025~~  | https://www.klondikedogderby.com/                     |   |     |   |                                                       |
-| Caledonia Classic 50                  | Fort St. James, BC | Feb 1, 2025  | https://www.fsjcaledoniaclassic.com                 |  |  |  |  |
-| Race to the Sky 100 | Seeley Lake, MT    | Feb 8, 2025 | https://www.racetothesky.org/  | |     
-| (Tentative) The Pas 6 dog | The Pas, MB | Feb 12-16, 2025 | https://www.trappersfestival.ca/ | |
+| Caledonia Classic 50  (Win 1st/5, FKT new course)                | Fort St. James, BC | Feb 1, 2025  | https://www.fsjcaledoniaclassic.com                 |  |  |  |  |
+| Race to the Sky 100 (Win 1st/18) | Seeley Lake, MT    | Feb 8, 2025 | https://www.racetothesky.org/  | |     
+| The Pas 6 dog | The Pas, MB | Feb 12-16, 2025 | https://www.trappersfestival.ca/ | |
 | Canadian Challenge 100               | La Ronge, SK        | Feb 18, 2025 | https://canadianchallenge.com/                |            |                                      |                    |              |                                            |
 | Yukon Odyssey 100                    | Mendenhall, YT      | Mar 1, 2025  | https://m.facebook.com/61559555234258/        |            |                                       |                    |              |                                            |
 | Percy DeWolfe                        | Dawson, YT          | Mar 6, 2025  | https://www.thepercy.com                              |            |                                       |                    |              |                                            |
@@ -38,7 +38,7 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 
 ### Dolly
 
-![Dolly](./images/dolly.jpg "Comet")
+![Dolly](./images/dolly.jpg "Dolly")
 
 ### Ember
 
