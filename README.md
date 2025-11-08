@@ -50,7 +50,7 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 
 ### Dolly
 
-![Dolly](./images/dolly.jpg "Comet")
+![Dolly](./images/dolly.jpg "Dolly")
 
 ### Ember
 
