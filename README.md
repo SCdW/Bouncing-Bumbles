@@ -1,40 +1,52 @@
 # Bouncing Bumbles Sled Dog Kennel
 
-Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'll often see us training on the ADMA trails and in the White Mountains National Recreation Area.  The 2024/2025 race season will see us traveling all over North America and then finishing the season in April in the Brooks Range in Arctic Alaska.
+Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'll often see us training on the ADMA trails and in the White Mountains National Recreation Area.  The 2025/2026 race season will see us traveling all over North America and then finishing the season in April in the Brooks Range in Arctic Alaska.
 
-1. [Race Plan](#2024-2025-Race-Plan)
+1. [Race Plan](#2025-2026-Race-Plan)
 2. [Team](#team)
+3. [Previous Years](#Previous-Years)
 3. [Contact](#Contact)
 
-## 2024-2025 Race Plan
+## 2025-2026 Race Plan
 
-| Race                                 | Location            | Date         | Info                                          |            |                                       |                    |              |                                            |
-|--------------------------------------|---------------------|--------------|-----------------------------------------------|------------|---------------------------------------|--------------------|--------------|--------------------------------------------|
-| Solstice 50             (Win 1st/21, FKT new course)             | Two Rivers, AK      | Dec 22, 2024 | https://www.trdma.info                                | |                         |            | |                |
-| Copper Basin 300 (Handle for Kelsey (4th/32; Great job Kelsey!)) | Glenallen AK        | Jan 11, 2025 | https://www.cb300.com                                 |            |                                       |                    |              |                                            |
-| Carbon Hill (Win 1st/8, FKT existing course)                         | Whitehorse, YT      | Jan 19, 2025 | https://dpsay.org/                            |            |                                       |                    |              |                                            |
-| ~~Beargrease 120~~ race postponed :(                      | Duluth, MN          | ~~Jan 26, 2025~~ | https://www.beargrease.com                            |            |                                       |                    |              |                                            |
-| ~~Klondike Dog Derby~~ race cancelled :(       | Lake Minnetonka, MN | ~~Feb 1, 2025~~  | https://www.klondikedogderby.com/                     |   |     |   |                                                       |
-| Caledonia Classic 50  (Win 1st/5, FKT new course)                | Fort St. James, BC | Feb 1, 2025  | https://www.fsjcaledoniaclassic.com                 |  |  |  |  |
-| Race to the Sky 100 (Win 1st/18) | Seeley Lake, MT    | Feb 8, 2025 | https://www.racetothesky.org/  | |     
-| The Pas 6 dog | The Pas, MB | Feb 12-16, 2025 | https://www.trappersfestival.ca/ | |
-| Canadian Challenge 100               | La Ronge, SK        | Feb 18, 2025 | https://canadianchallenge.com/                |            |                                      |                    |              |                                            |
-| Yukon Odyssey 100                    | Mendenhall, YT      | Mar 1, 2025  | https://m.facebook.com/61559555234258/        |            |                                       |                    |              |                                            |
-| Percy DeWolfe                        | Dawson, YT          | Mar 6, 2025  | https://www.thepercy.com                              |            |                                       |                    |              |                                            |
-| Tanana River Challenge 45 Skijor     | Fairbanks, AK       | Mar 15, 2025 | https://www.tananariverchallenge.org                  |            |                                       |                    |              |                                            |
-|                                      |                     |              |                                               | Alternate: | T-DOG                                 | Fairbanks, AK      | Mar 23, 2025 | https://trailbreakerkennel.com/home/t-dog/ |
-| Underdog 100                         | Yellowknife NT      | Mar 29, 2025 | https://www.facebook.com/underdogsleddograce/ | Alternate: | Valley Funale                         | Two Rivers, AK     | Mar 29, 2025 | www.trdma.info                             |
-| CB 100  (If they use a fun route)   | Glenallen, AK          | Apr 4, 2025  | https://www.cb300.com                              |            |                                       |                    |              |                                            |
+* December 20, 21 either
+  * Solstice 50 - Two Rivers, AK
+  * Knik 100 - Knik, AK
+* January 10
+  * Handle for Connor at Copper Basin - Glenallen, AK
+  * If he cancels, potentially Dog Creek 100k - Fort St. James, BC
+* January 18 if the race happens
+  *  Carbon Hill -  Whitehorse, YT
+* January 23
+  * Beargrease 120 - Duluth, MN
+  * (Alternate) Eagle Cap 100 - Joseph, OR
+* January 29 - February 7 depending on conditions and adjacent races
+  * Warm Lake Stage Race 2x26 - Cascade, ID
+  * Idaho Sled Dog Challenge 100 - McCall, ID
+  * Caledonia Classic 50 - Fort St. James, BC
+  * Gunflint Mail Run 60 - Grand Marais, MN
+  * Northern Pines Middistance 30 - Iron River, WI
+* February 13
+  * Klondike Dog Derby 40 - Excelsior, MN  
+  * (Alternate) Race to the Sky 100 - Lincoln, MT
+  * (Alternate) Midnight Run 80 - Marquette, MI
+* February 18-21 if eastbound
+  * Canadian Challenge 100
+  * (Alternate) The Pas 10 dog
+* March 1
+  * Yukon Odyssey 100 - Whitehorse, YT
+  * (Alternate) Fur Rondy - Anchorage, AK
+* March 6
+  * The Percy - Dawson, YT
+* March 20 if I'm motivated
+  * Open North American Championship - My backyard in Fairbanks, AK
+  * Tanana River Challenge Skijor
 
 ## Team
 
 ### Babe
 
 ![Babe](./images/babe.jpg "Babe")
-
-### Comet
-
-![Comet](./images/comet.jpg "Comet")
 
 ### Dolly
 
@@ -46,11 +58,10 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 
 ### Flecha
 
+_Retired_
+
+
 ![Flecha](./images/flecha.jpg "Flecha")
-
-### Jenne
-
-![Jenne](./images/jenne.jpg "Jenne")
 
 ### Kyber
 
@@ -58,24 +69,65 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 
 ### Lexi
 
+_Retired_
+
 ![Lexi](./images/lexi.jpg "Lexi")
+
+### Lizzy
+
+![Lizzy](./images/lizzy.jpg "Lizzy")
 
 ### Lulu
 
-(little spoon)
-
-![Lulu (little spoon)](./images/marlolulu.jpg "Lulu (little spoon)")
+![Lulu](./images/lulu.jpg "Lulu")
 
 ### Marlo
 
-(big spoon)
-
-![Marlo (big spoon)](./images/marlolulu.jpg "Marlo (big spoon)")
+![Marlo](./images/marlo.jpg "Marlo")
 
 ### Tiny 
 
 ![Tiny)](./images/tiny.jpg "Tiny")
 
+### Vicky 
+
+![Vicky)](./images/vicky.jpg "Vicky")
+
+## Previous Years Results and Team
+
+### 2024 - 2025 Season Results
+
+Undefeated in mid-distance racing!
+
+* Solstice 50 - Win (1/21)
+* Carbon Hill 40 - Win (1/8)
+* Caledonia Classic 50 - Win (1/5)
+* Race to the Sky 100 - Win (1/20)
+* The Pas 6 Dog
+* The Pas 4 Dog
+* Canadian Challenge 100 - Win (1/6)
+* Yukon Odyssey 100 - Win (1/6)
+* The Percy 100 - Win (1/5)
+* Underdog 100 - Win (1/15)
+
+### 2023 - 2024 Season Results
+
+* ACE Race Doubles (100k) - Win
+* Solstice 50 - Win
+* Yukon Quest Canada 100 (km not miles due to weather) - Win
+* Babe Southwick 10 Dog - 6/9
+* Fur Rondy - 11/13
+* T-Dog 50 - Win 
+* TRDMA Valley Funale 20 - Win (Maisie driving the team!)
+
+### Comet
+
+![Comet](./images/comet.jpg "Comet")
+
+### Jenne
+
+![Jenne](./images/jenne.jpg "Jenne")
+
 ## Contact
 
-sean.dewolski@live.com
+seandewolski@duck.com
