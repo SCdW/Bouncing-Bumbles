@@ -2,12 +2,13 @@
 
 Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'll often see us training on the ADMA trails and in the White Mountains National Recreation Area.  The 2025/2026 race season will see us traveling all over North America and then finishing the season in April in the Brooks Range in Arctic Alaska.
 
-1. [Race Plan](#2025-2026-Race-Plan)
+1. [Race Plan](#plan)
 2. [Team](#team)
-3. [Previous Years](#Previous-Years)
-3. [Contact](#Contact)
+3. [Previous Years](#previousyears)
+3. [Contact](#contact)
 
-## 2025-2026 Race Plan
+## 2025-2026 Race Plan 
+<a id="plan"></a>
 
 * December 20, 21 either
   * Solstice 50 - Two Rivers, AK
@@ -43,6 +44,7 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
   * Tanana River Challenge Skijor
 
 ## Team
+<a id="team"></a>
 
 ### Babe
 
@@ -50,7 +52,7 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 
 ### Dolly
 
-![Dolly](./images/dolly.jpg "Dolly")
+![Dolly](./images/dolly.jpg "Comet")
 
 ### Ember
 
@@ -59,7 +61,6 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 ### Flecha
 
 _Retired_
-
 
 ![Flecha](./images/flecha.jpg "Flecha")
 
@@ -94,6 +95,8 @@ _Retired_
 ![Vicky)](./images/vicky.jpg "Vicky")
 
 ## Previous Years Results and Team
+<a id="previousyears"></a>
+
 
 ### 2024 - 2025 Season Results
 
@@ -129,5 +132,6 @@ Undefeated in mid-distance racing!
 ![Jenne](./images/jenne.jpg "Jenne")
 
 ## Contact
+<a id="contact"></a>
 
 seandewolski@duck.com
