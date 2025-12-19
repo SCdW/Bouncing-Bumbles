@@ -20,18 +20,20 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 * January 23
   * Beargrease 120 - Duluth, MN
   * (Alternate) Eagle Cap 100 - Joseph, OR
-* January 29 - February 7 depending on conditions and adjacent races
-  * Gunflint Mail Run 60 - Grand Marais, MN
+* January 29 - depending on conditions and adjacent races
   * (Maybe) Warm Lake Stage Race 2x26 - Cascade, ID
   * (Maybe) Idaho Sled Dog Challenge 100 - McCall, ID
   * (Alternate) Caledonia Classic 50 - Fort St. James, BC
   * (Alternate) Northern Pines Middistance 30 - Iron River, WI
+* February 7  
+  * Gunflint Mail Run 60 - Grand Marais, MN
 * February 13
   * Klondike Dog Derby 40 - Excelsior, MN  
   * (Alternate) Race to the Sky 100 - Lincoln, MT
   * (Alternate) Midnight Run 80 - Marquette, MI
 * February 19-21
-  * The Pas 10 dog
+  * The Pas 10 dog - The Pas, MB
+  * American Dog Derby - Ashton, ID
   * ~~Canadian Challenge 100~~
 * March 1
   * Rec mushing in Yukon's Tombstones!
