@@ -88,11 +88,11 @@ _Retired_
 
 ### Tiny 
 
-![Tiny)](./images/tiny.jpg "Tiny")
+![Tiny](./images/tiny.jpg "Tiny")
 
 ### Vicky 
 
-![Vicky)](./images/vicky.jpg "Vicky")
+![Vicky](./images/vicky.jpg "Vicky")
 
 ## Previous Years Results and Team
 <a id="previousyears"></a>
