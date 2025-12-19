@@ -12,32 +12,32 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 
 * December 20, 21 either
   * Solstice 50 - Two Rivers, AK
-  * Knik 100 - Knik, AK
+  * ~~Knik 100 - Knik, AK (Cancelled)~~
 * January 10
   * Handle for Connor at Copper Basin - Glenallen, AK
-  * If he cancels, potentially Dog Creek 100k - Fort St. James, BC
 * January 18 if the race happens
   *  Carbon Hill -  Whitehorse, YT
 * January 23
   * Beargrease 120 - Duluth, MN
   * (Alternate) Eagle Cap 100 - Joseph, OR
 * January 29 - February 7 depending on conditions and adjacent races
-  * Warm Lake Stage Race 2x26 - Cascade, ID
-  * Idaho Sled Dog Challenge 100 - McCall, ID
-  * Caledonia Classic 50 - Fort St. James, BC
   * Gunflint Mail Run 60 - Grand Marais, MN
-  * Northern Pines Middistance 30 - Iron River, WI
+  * (Maybe) Warm Lake Stage Race 2x26 - Cascade, ID
+  * (Maybe) Idaho Sled Dog Challenge 100 - McCall, ID
+  * (Alternate) Caledonia Classic 50 - Fort St. James, BC
+  * (Alternate) Northern Pines Middistance 30 - Iron River, WI
 * February 13
   * Klondike Dog Derby 40 - Excelsior, MN  
   * (Alternate) Race to the Sky 100 - Lincoln, MT
   * (Alternate) Midnight Run 80 - Marquette, MI
-* February 18-21 if eastbound
-  * Canadian Challenge 100
-  * (Alternate) The Pas 10 dog
+* February 19-21
+  * The Pas 10 dog
+  * ~~Canadian Challenge 100~~
 * March 1
-  * Yukon Odyssey 100 - Whitehorse, YT
+  * Rec mushing in Yukon's Tombstones!
+  * (Alternate) Yukon Odyssey 100 - Whitehorse, YT
   * (Alternate) Fur Rondy - Anchorage, AK
-* March 6
+* March 5
   * The Percy - Dawson, YT
 * March 20 if I'm motivated
   * Open North American Championship - My backyard in Fairbanks, AK
