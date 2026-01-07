@@ -10,31 +10,22 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 ## 2025-2026 Race Plan 
 <a id="plan"></a>
 
-* December 20, 21 either
-  * Solstice 50 - Two Rivers, AK
+* December 21
+  * Solstice 50 - Two Rivers, AK (Win 1/11)
   * ~~Knik 100 - Knik, AK (Cancelled)~~
 * January 10
-  * Handle for Connor at Copper Basin - Glenallen, AK
-* January 18 if the race happens
-  *  Carbon Hill -  Whitehorse, YT
-* January 23
+  * Handle for Jake at Copper Basin - Glenallen, AK
+* January 25
   * Beargrease 120 - Duluth, MN
-  * (Alternate) Eagle Cap 100 - Joseph, OR
-* January 29 - depending on conditions and adjacent races
-  * (Maybe) Warm Lake Stage Race 2x26 - Cascade, ID
-  * (Maybe) Idaho Sled Dog Challenge 100 - McCall, ID
-  * (Alternate) Caledonia Classic 50 - Fort St. James, BC
-  * (Alternate) Northern Pines Middistance 30 - Iron River, WI
+* January 31
+  * Hiawatha Heritage Dog Sled Race 80 - Engadine, MI
 * February 7  
   * Gunflint Mail Run 60 - Grand Marais, MN
 * February 13
-  * Klondike Dog Derby 40 - Excelsior, MN  
-  * (Alternate) Race to the Sky 100 - Lincoln, MT
-  * (Alternate) Midnight Run 80 - Marquette, MI
-* February 19-21
+  * Klondike Dog Derby 40 - Excelsior, MN    
+* February 19-21 either
   * The Pas 10 dog - The Pas, MB
   * American Dog Derby - Ashton, ID
-  * ~~Canadian Challenge 100~~
 * March 1
   * Rec mushing in Yukon's Tombstones!
   * (Alternate) Yukon Odyssey 100 - Whitehorse, YT
@@ -98,7 +89,6 @@ _Retired_
 
 ## Previous Years Results and Team
 <a id="previousyears"></a>
-
 
 ### 2024 - 2025 Season Results
 
