@@ -16,7 +16,7 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 * January 10
   * Handle for Jake at Copper Basin - Glenallen, AK
 * January 25
-  * Beargrease 120 - Duluth, MN
+  * Beargrease 120 - Duluth, MN (Win 1/23)
 * January 31
   * Hiawatha Heritage Dog Sled Race 80 - Engadine, MI
 * February 7  
