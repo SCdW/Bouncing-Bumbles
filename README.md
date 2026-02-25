@@ -16,16 +16,16 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 * January 10
   * Handle for Jake at Copper Basin - Glenallen, AK
 * January 25
-  * Beargrease 120 - Duluth, MN (Win 1/23)
+  * Beargrease 120 - Duluth, MN (Win 1/23, Vet's Choice)
 * January 31
-  * Hiawatha Heritage Dog Sled Race 80 - Engadine, MI
+  * Hiawatha Heritage Dog Sled Race 80 - Engadine, MI (2/8)
 * February 7  
-  * Gunflint Mail Run 60 - Grand Marais, MN
-* February 13
-  * Klondike Dog Derby 40 - Excelsior, MN    
-* February 19-21 either
-  * The Pas 10 dog - The Pas, MB
-  * American Dog Derby - Ashton, ID
+  * Gunflint Mail Run 60 - Grand Marais, MN (2/11)
+* February 14
+  * ~~Klondike Dog Derby 40 - Excelsior, MN (Cancelled)~~
+  * DPSAY Valentine's Race - Mendenhall, YT (Win 1/5)
+* February 19-21
+  * ~~American Dog Derby - Ashton, ID (Cancelled)~~
 * March 1
   * Rec mushing in Yukon's Tombstones!
   * (Alternate) Yukon Odyssey 100 - Whitehorse, YT
