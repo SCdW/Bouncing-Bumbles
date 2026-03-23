@@ -25,7 +25,7 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
   * ~~Klondike Dog Derby 40 - Excelsior, MN (Cancelled)~~
   * DPSAY Valentine's Race - Mendenhall, YT (Win 1/5)
 * March 5
-  * The Percy - Dawson, YT (Win 1/3)
+  * The Percy 100 - Dawson, YT (Win 1/3)
 * March 27
   * Copper Basin 100 - Eureka Roadhouse, AK
 
