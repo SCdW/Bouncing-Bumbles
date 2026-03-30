@@ -27,7 +27,7 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 * March 5
   * The Percy 100 - Dawson, YT (Win 1/3)
 * March 27
-  * Copper Basin 100 - Eureka Roadhouse, AK
+  * Copper Basin 100 - Eureka Roadhouse, AK (Win 1/9)
 
 ## Team
 <a id="team"></a>
