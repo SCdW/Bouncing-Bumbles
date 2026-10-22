@@ -7,27 +7,26 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 3. [Previous Years](#previousyears)
 3. [Contact](#contact)
 
-## 2025-2026 Race Plan 
+## 2026-2027 Race Plan 
 <a id="plan"></a>
 
-* December 21
-  * Solstice 50 - Two Rivers, AK (Win 1/11)
-  * ~~Knik 100 - Knik, AK (Cancelled)~~
-* January 10
-  * Handle for Jake at Copper Basin - Glenallen, AK
-* January 25
-  * Beargrease 120 - Duluth, MN (Win 1/23, Vet's Choice)
-* January 31
-  * Hiawatha Heritage Dog Sled Race 80 - Engadine, MI (2/8)
-* February 7  
-  * Gunflint Mail Run 60 - Grand Marais, MN (2/11)
-* February 14
-  * ~~Klondike Dog Derby 40 - Excelsior, MN (Cancelled)~~
-  * DPSAY Valentine's Race - Mendenhall, YT (Win 1/5)
-* March 5
-  * The Percy 100 - Dawson, YT (Win 1/3)
-* March 27
-  * Copper Basin 100 - Eureka Roadhouse, AK (Win 1/9)
+* December 20
+  * Solstice 50 - Two Rivers, AK
+  * Knik 100 - Knik, AK (If it goes off??)
+* January 21
+  * Eagle Cap Extreme 100 - Joseph, OR
+* January 31 (Tentative, maybe just a travel week)
+  * Beargrease 40 - Duluth, MN
+  * Hiawatha Heritage - Engadine, MI
+* February 6
+  * 100 Mile Wilderness 35 - Greenville, ME
+  * Alternate: Caledonia Classic 50 - Fort St. James, BC
+* February 12
+  * Midnight Run - Marquette, MI
+* February 17
+  * The Pas - The Pas, MB
+* March 4
+  * The Percy 100 - Dawson, YT
 
 ## Team
 <a id="team"></a>
@@ -43,12 +42,6 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 ### Ember
 
 ![Ember](./images/ember.jpg "Ember")
-
-### Flecha
-
-_Retired_
-
-![Flecha](./images/flecha.jpg "Flecha")
 
 ### Kyber
 
@@ -83,6 +76,16 @@ _Retired_
 ## Previous Years Results and Team
 <a id="previousyears"></a>
 
+### 2025 - 2026 Season Results
+
+* Solstice 50 - Win 1/11
+* Beargrease 120 - Win (1/23, Vet's Choice, Rookie Of the Year)
+* Hiawatha Heritage Dog Sled Race 80 - (2/8)
+* Gunflint Mail Run 60 -  (2/11)
+* DPSAY Valentine's Race - Win (1/5)
+* The Percy 100 - Win (1/3)
+* Copper Basin 100 - Win (1/9)
+
 ### 2024 - 2025 Season Results
 
 Undefeated in mid-distance racing!
@@ -107,6 +110,10 @@ Undefeated in mid-distance racing!
 * Fur Rondy - 11/13
 * T-Dog 50 - Win 
 * TRDMA Valley Funale 20 - Win (Maisie driving the team!)
+
+### Flecha
+
+![Flecha](./images/flecha.jpg "Flecha")
 
 ### Comet
 
