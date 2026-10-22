@@ -18,6 +18,7 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 * January 31 (Tentative, maybe just a travel week)
   * Beargrease 40 - Duluth, MN
   * Hiawatha Heritage - Engadine, MI
+  * PG Expédition Abitibi - La Sarre, QC
 * February 6
   * 100 Mile Wilderness 35 - Greenville, ME
   * Alternate: Caledonia Classic 50 - Fort St. James, BC
