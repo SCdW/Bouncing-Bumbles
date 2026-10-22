@@ -32,13 +32,15 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 ## Team
 <a id="team"></a>
 
+![Humans](./images/humans.jpg "Humans")
+
 ### Babe
 
 ![Babe](./images/babe.jpg "Babe")
 
 ### Dolly
 
-![Dolly](./images/dolly.jpg "Comet")
+![Dolly](./images/dolly.jpg "Dolly")
 
 ### Ember
 
@@ -73,10 +75,6 @@ _Retired_
 ### Vicky 
 
 ![Vicky](./images/vicky.jpg "Vicky")
-
-### Two-leggeds
-
-![Humans](./images/humans.jpg "Humans")
 
 ## Previous Years Results and Team
 <a id="previousyears"></a>
