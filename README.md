@@ -1,6 +1,6 @@
 # Bouncing Bumbles Sled Dog Kennel
 
-Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'll often see us training on the ADMA trails and in the White Mountains National Recreation Area.  The 2025/2026 race season will see us traveling all over North America and then finishing the season in April in the Brooks Range in Arctic Alaska.
+Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'll often see us training on the ADMA trails and in the White Mountains National Recreation Area.  The 2026/2027 race season will see us traveling across North America with a fair amount of time in Fairbanks, Whitehorse, and finishing the season in April in the Brooks Range in Arctic Alaska.
 
 1. [Race Plan](#plan)
 2. [Team](#team)
@@ -72,6 +72,10 @@ _Retired_
 ### Vicky 
 
 ![Vicky](./images/vicky.jpg "Vicky")
+
+### Two-leggeds
+
+![Humans](./images/humans.jpg "Humans")
 
 ## Previous Years Results and Team
 <a id="previousyears"></a>
