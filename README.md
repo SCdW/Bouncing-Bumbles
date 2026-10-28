@@ -12,13 +12,13 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 
 * December 20
   * Solstice 50 - Two Rivers, AK
-  * Knik 100 - Knik, AK (If it goes off??)
+  * Knik 100 - Knik, AK (Unlikely to go off??)
 * January 21
   * Eagle Cap Extreme 100 - Joseph, OR
-* January 31 (Tentative, maybe just a travel week)
-  * Beargrease 40 - Duluth, MN
-  * Hiawatha Heritage - Engadine, MI
+* January 31
   * PG Expédition Abitibi - La Sarre, QC
+  * Alternate: Beargrease 40 - Duluth, MN
+  * Alternate: Hiawatha Heritage - Engadine, MI
 * February 6
   * 100 Mile Wilderness 35 - Greenville, ME
   * Alternate: Caledonia Classic 50 - Fort St. James, BC
