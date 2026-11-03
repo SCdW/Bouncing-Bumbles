@@ -11,10 +11,10 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
 <a id="plan"></a>
 
 * December 20
-  * Solstice 50 - Two Rivers, AK
-  * Knik 100 - Knik, AK (Unlikely to go off??)
+  * Solstice 50 - Two Rivers, AK  
 * January 21
   * Eagle Cap Extreme 100 - Joseph, OR
+  * Alternate: Nisbet Forest Odyssey - Nisbet, SK
 * January 31
   * PG Expédition Abitibi - La Sarre, QC
   * Alternate: Beargrease 40 - Duluth, MN
@@ -26,9 +26,9 @@ Bouncing Bumbles is a small adventure and racing kennel in Fairbanks, AK.  You'l
   * Midnight Run - Marquette, MI
 * February 17
   * The Pas - The Pas, MB
-* March 4
-  * The Percy 100 - Dawson, YT
-
+* March 6
+  * The Percy - Dawson, YT
+s
 ## Team
 <a id="team"></a>
 
@@ -82,9 +82,9 @@ _Retired_
 ### 2025 - 2026 Season Results
 
 * Solstice 50 - Win 1/11
-* Beargrease 120 - Win (1/23, Vet's Choice, Rookie Of the Year)
+* Beargrease 120 - Win (1/23, Vet's Choice, Rookie of the Year)
 * Hiawatha Heritage Dog Sled Race 80 - (2/8)
-* Gunflint Mail Run 60 -  (2/11)
+* Gunflint Mail Run 60 - (2/11)
 * DPSAY Valentine's Race - Win (1/5)
 * The Percy 100 - Win (1/3)
 * Copper Basin 100 - Win (1/9)
@@ -102,7 +102,7 @@ Undefeated in mid-distance racing!
 * Canadian Challenge 100 - Win (1/6)
 * Yukon Odyssey 100 - Win (1/6)
 * The Percy 100 - Win (1/5)
-* Underdog 100 - Win (1/15)
+* Underdog 100 - Win (1/15, Rookie of the Year)
 
 ### 2023 - 2024 Season Results
 
